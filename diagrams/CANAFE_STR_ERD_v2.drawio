@@ -1,133 +1,133 @@
-<mxfile host="app.diagrams.net" pages="5">
+﻿<mxfile host="app.diagrams.net" pages="5">
   <diagram id="p1" name="1 - Vue ensemble">
     <mxGraphModel dx="2446" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g1" parent="1" style="rounded=1;fillColor=#dae8fc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="1. RAPPORT" vertex="1">
+        <mxCell id="g1" parent="1" style="html=1;rounded=1;fillColor=#dae8fc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="1. RAPPORT" vertex="1">
           <mxGeometry height="200" width="740" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="g2" parent="1" style="rounded=1;fillColor=#d5e8d4;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="2. DEFINITIONS" vertex="1">
+        <mxCell id="g2" parent="1" style="html=1;rounded=1;fillColor=#d5e8d4;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="2. DEFINITIONS" vertex="1">
           <mxGeometry height="290" width="900" x="10" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="g3" parent="1" style="rounded=1;fillColor=#f8cecc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value=" " vertex="1">
+        <mxCell id="g3" parent="1" style="html=1;rounded=1;fillColor=#f8cecc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value=" " vertex="1">
           <mxGeometry height="150" width="900" x="555" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="g4" parent="1" style="rounded=1;fillColor=#fff2cc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="4. IDENTITE" vertex="1">
+        <mxCell id="g4" parent="1" style="html=1;rounded=1;fillColor=#fff2cc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="4. IDENTITE" vertex="1">
           <mxGeometry height="310" width="260" x="1007.5" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="g5" parent="1" style="rounded=1;fillColor=#ffe6cc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="5. TRANSACTIONS" vertex="1">
+        <mxCell id="g5" parent="1" style="html=1;rounded=1;fillColor=#ffe6cc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="5. TRANSACTIONS" vertex="1">
           <mxGeometry height="260" width="840" x="-300" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="g6" parent="1" style="rounded=1;fillColor=#e1d5e7;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="6. ROLES" vertex="1">
+        <mxCell id="g6" parent="1" style="html=1;rounded=1;fillColor=#e1d5e7;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="6. ROLES" vertex="1">
           <mxGeometry height="120" width="740" x="-325" y="960" as="geometry" />
         </mxCell>
-        <mxCell id="g7" parent="1" style="rounded=1;fillColor=#d5f5e3;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="7. COMPTES" vertex="1">
+        <mxCell id="g7" parent="1" style="html=1;rounded=1;fillColor=#d5f5e3;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="7. COMPTES" vertex="1">
           <mxGeometry height="360" width="490" x="800" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="g8" parent="1" style="rounded=1;fillColor=#f5f5f5;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="8. AUDIT" vertex="1">
+        <mxCell id="g8" parent="1" style="html=1;rounded=1;fillColor=#f5f5f5;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="8. AUDIT" vertex="1">
           <mxGeometry height="340" width="340" x="-370" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="a1" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;STR_REPORT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK str_report_id&lt;br&gt;16 colonnes" vertex="1">
+        <mxCell id="a1" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;STR_REPORT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK str_report_id&lt;br&gt;16 colonnes" vertex="1">
           <mxGeometry height="60" width="150" x="30" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="a2" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;STR_PPP_PROJECT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK str_report_id" vertex="1">
+        <mxCell id="a2" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;STR_PPP_PROJECT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK str_report_id" vertex="1">
           <mxGeometry height="45" width="140" x="370" y="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="a3" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;STR_RELATED_REPORT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK str_report_id" vertex="1">
+        <mxCell id="a3" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;STR_RELATED_REPORT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK str_report_id" vertex="1">
           <mxGeometry height="45" width="155" x="195" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="a4" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;STR_RELATED_RPT_TXN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK related_report_id" vertex="1">
+        <mxCell id="a4" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;STR_RELATED_RPT_TXN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK related_report_id" vertex="1">
           <mxGeometry height="45" width="155" x="490" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="a5" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_DEFINITION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id UNIQUE&lt;br&gt;type_code 1-6" vertex="1">
+        <mxCell id="a5" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_DEFINITION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id UNIQUE&lt;br&gt;type_code 1-6" vertex="1">
           <mxGeometry height="55" width="160" x="20" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="a6" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_PERSON&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;tc 1,3,5" vertex="1">
+        <mxCell id="a6" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_PERSON&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;tc 1,3,5" vertex="1">
           <mxGeometry height="40" width="120" x="230" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="a7" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_ENTITY&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;tc 2,4,6" vertex="1">
+        <mxCell id="a7" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_ENTITY&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;tc 2,4,6" vertex="1">
           <mxGeometry height="40" width="120" x="340" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="a8" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_EMPLOYER_INFO&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;tc5 only" vertex="1">
+        <mxCell id="a8" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_EMPLOYER_INFO&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;tc5 only" vertex="1">
           <mxGeometry height="40" width="130" x="250" y="351.25" as="geometry" />
         </mxCell>
-        <mxCell id="a9" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_REG_INCORP&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
+        <mxCell id="a9" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_REG_INCORP&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
           <mxGeometry height="40" width="130" x="415" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="a10" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_AUTH_PERSON&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;max 3" vertex="1">
+        <mxCell id="a10" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_AUTH_PERSON&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;max 3" vertex="1">
           <mxGeometry height="40" width="130" x="590" y="351.25" as="geometry" />
         </mxCell>
-        <mxCell id="a11" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_ADDRESS&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;polymorphe, 15 cols" vertex="1">
+        <mxCell id="a11" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_ADDRESS&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;polymorphe, 15 cols" vertex="1">
           <mxGeometry height="40" width="220" x="1020" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="a12" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_IDENTIFICATION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;polymorphe, 9 cols" vertex="1">
+        <mxCell id="a12" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_IDENTIFICATION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;polymorphe, 9 cols" vertex="1">
           <mxGeometry height="40" width="220" x="1047.5" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="b20" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_DIRECTOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
+        <mxCell id="b20" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_DIRECTOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
           <mxGeometry height="35" width="115" x="560" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="b21" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_SHARE_OWN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
+        <mxCell id="b21" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_SHARE_OWN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
           <mxGeometry height="35" width="115" x="690" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="b22" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUSTEE&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
+        <mxCell id="b22" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUSTEE&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
           <mxGeometry height="35" width="115" x="820" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="b23" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_SETTLOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
+        <mxCell id="b23" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_SETTLOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
           <mxGeometry height="35" width="115" x="950" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="b24" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_UNIT_OWN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
+        <mxCell id="b24" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_UNIT_OWN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
           <mxGeometry height="35" width="115" x="1080" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="b25" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUST_BEN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
+        <mxCell id="b25" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUST_BEN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
           <mxGeometry height="35" width="115" x="1210" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="b26" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_OTHER_OWN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
+        <mxCell id="b26" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_OTHER_OWN&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id" vertex="1">
           <mxGeometry height="35" width="115" x="1340" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="a30" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_TRANSACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;13 colonnes" vertex="1">
+        <mxCell id="a30" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_TRANSACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;13 colonnes" vertex="1">
           <mxGeometry height="55" width="170" x="-280" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="a31" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_STARTING_ACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;16 cols, amount=STR!" vertex="1">
+        <mxCell id="a31" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_STARTING_ACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;16 cols, amount=STR!" vertex="1">
           <mxGeometry height="55" width="170" x="-100" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="a32" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_COMPLETING_ACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;15 cols, amount=STR!" vertex="1">
+        <mxCell id="a32" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_COMPLETING_ACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;15 cols, amount=STR!" vertex="1">
           <mxGeometry height="55" width="160" x="225" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="a33" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_CONDUCTOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
+        <mxCell id="a33" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_CONDUCTOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
           <mxGeometry height="35" width="115" x="-305" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="a34" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_ON_BEHALF_OF&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
+        <mxCell id="a34" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_ON_BEHALF_OF&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
           <mxGeometry height="35" width="130" x="-165" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="a35" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_SOURCE_FUNDS&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
+        <mxCell id="a35" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_SOURCE_FUNDS&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
           <mxGeometry height="35" width="125" x="-5" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="a36" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_INVOLVEMENT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
+        <mxCell id="a36" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_INVOLVEMENT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
           <mxGeometry height="35" width="120" x="145" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="a37" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_BENEFICIARY&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
+        <mxCell id="a37" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_BENEFICIARY&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
           <mxGeometry height="35" width="110" x="290" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="a38" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_ACCOUNT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;polymorphe" vertex="1">
+        <mxCell id="a38" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_ACCOUNT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;polymorphe" vertex="1">
           <mxGeometry height="35" width="140" x="850" y="925" as="geometry" />
         </mxCell>
-        <mxCell id="a39" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_ACCT_HOLDER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
+        <mxCell id="a39" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_ACCT_HOLDER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;ref_id" vertex="1">
           <mxGeometry height="35" width="120" x="870" y="1010" as="geometry" />
         </mxCell>
-        <mxCell id="a40" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_VC_DATA&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;3 arrays" vertex="1">
+        <mxCell id="a40" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_VC_DATA&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;3 arrays" vertex="1">
           <mxGeometry height="35" width="140" x="840" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="a41" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;STR_API_SUBMISSION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK report_id" vertex="1">
+        <mxCell id="a41" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;STR_API_SUBMISSION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK report_id" vertex="1">
           <mxGeometry height="35" width="140" x="-320" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="a42" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;STR_SUBMIT_PAYLOAD&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;SHA-256" vertex="1">
+        <mxCell id="a42" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;STR_SUBMIT_PAYLOAD&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;SHA-256" vertex="1">
           <mxGeometry height="35" width="130" x="-315" y="205" as="geometry" />
         </mxCell>
-        <mxCell id="a43" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;STR_VALID_ERROR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK report_id" vertex="1">
+        <mxCell id="a43" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;STR_VALID_ERROR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK report_id" vertex="1">
           <mxGeometry height="35" width="140" x="-315" y="275" as="geometry" />
         </mxCell>
-        <mxCell id="a44" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;STR_AUDIT_EVENT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK report_id" vertex="1">
+        <mxCell id="a44" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;STR_AUDIT_EVENT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK report_id" vertex="1">
           <mxGeometry height="57.5" width="130" x="-315" y="342.5" as="geometry" />
         </mxCell>
         <mxCell id="e50" edge="1" parent="1" source="a1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="a2" value="1:N">
@@ -249,31 +249,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dg1" parent="1" style="rounded=1;fillColor=#d5e8d4;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="DEFINITIONS - Catalogue polymorphe (definitions[])" vertex="1">
+        <mxCell id="dg1" parent="1" style="html=1;rounded=1;fillColor=#d5e8d4;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="DEFINITIONS - Catalogue polymorphe (definitions[])" vertex="1">
           <mxGeometry height="700" width="1100" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="d1" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_DEFINITION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK definition_id BIGINT&lt;br&gt;FK str_report_id BIGINT&lt;br&gt;ref_id VARCHAR(50) UNIQUE&lt;br&gt;type_code INT (1-6)" vertex="1">
+        <mxCell id="d1" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_DEFINITION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK definition_id BIGINT&lt;br&gt;FK str_report_id BIGINT&lt;br&gt;ref_id VARCHAR(50) UNIQUE&lt;br&gt;type_code INT (1-6)" vertex="1">
           <mxGeometry height="90" width="240" x="30" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="d2" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_PERSON (tc 1,3,5)&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK person_id&lt;br&gt;FK definition_id UNIQUE&lt;br&gt;surname VARCHAR(100)&lt;br&gt;given_name VARCHAR(100)&lt;br&gt;other_name_initial VARCHAR(100)&lt;br&gt;alias VARCHAR(100)&lt;br&gt;telephone_number VARCHAR(20)&lt;br&gt;date_of_birth VARCHAR(10)&lt;br&gt;country_of_residence_code&lt;br&gt;country_of_citizenship_code (tc5)&lt;br&gt;occupation VARCHAR(200)&lt;br&gt;address_type_code INT" vertex="1">
+        <mxCell id="d2" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_PERSON (tc 1,3,5)&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK person_id&lt;br&gt;FK definition_id UNIQUE&lt;br&gt;surname VARCHAR(100)&lt;br&gt;given_name VARCHAR(100)&lt;br&gt;other_name_initial VARCHAR(100)&lt;br&gt;alias VARCHAR(100)&lt;br&gt;telephone_number VARCHAR(20)&lt;br&gt;date_of_birth VARCHAR(10)&lt;br&gt;country_of_residence_code&lt;br&gt;country_of_citizenship_code (tc5)&lt;br&gt;occupation VARCHAR(200)&lt;br&gt;address_type_code INT" vertex="1">
           <mxGeometry height="260" width="260" x="30" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="d3" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_EMPLOYER_INFO (tc5)&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK employer_id&lt;br&gt;FK person_id UNIQUE&lt;br&gt;name VARCHAR(100)&lt;br&gt;address_type_code INT&lt;br&gt;telephone_number VARCHAR(20)" vertex="1">
+        <mxCell id="d3" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_EMPLOYER_INFO (tc5)&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK employer_id&lt;br&gt;FK person_id UNIQUE&lt;br&gt;name VARCHAR(100)&lt;br&gt;address_type_code INT&lt;br&gt;telephone_number VARCHAR(20)" vertex="1">
           <mxGeometry height="110" width="240" x="30" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="d4" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_ENTITY (tc 2,4,6)&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK entity_id&lt;br&gt;FK definition_id UNIQUE&lt;br&gt;name_of_entity VARCHAR(100)&lt;br&gt;telephone_number VARCHAR(20)&lt;br&gt;nature_of_principal_business&lt;br&gt;address_type_code INT&lt;br&gt;structure_type_code (tc6)&lt;br&gt;registration_incorp_indicator" vertex="1">
+        <mxCell id="d4" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_ENTITY (tc 2,4,6)&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK entity_id&lt;br&gt;FK definition_id UNIQUE&lt;br&gt;name_of_entity VARCHAR(100)&lt;br&gt;telephone_number VARCHAR(20)&lt;br&gt;nature_of_principal_business&lt;br&gt;address_type_code INT&lt;br&gt;structure_type_code (tc6)&lt;br&gt;registration_incorp_indicator" vertex="1">
           <mxGeometry height="180" width="270" x="840" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="d5" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_REG_INCORPORATION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK reg_inc_id&lt;br&gt;FK entity_id&lt;br&gt;type_code (1=Reg|2=Inc|4|5)&lt;br&gt;number, jurisdiction" vertex="1">
+        <mxCell id="d5" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_REG_INCORPORATION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK reg_inc_id&lt;br&gt;FK entity_id&lt;br&gt;type_code (1=Reg|2=Inc|4|5)&lt;br&gt;number, jurisdiction" vertex="1">
           <mxGeometry height="90" width="250" x="380" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="d6" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_AUTHORIZED_PERSON&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK auth_id, FK entity_id&lt;br&gt;surname, given_name&lt;br&gt;other_name_initial" vertex="1">
+        <mxCell id="d6" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_AUTHORIZED_PERSON&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK auth_id, FK entity_id&lt;br&gt;surname, given_name&lt;br&gt;other_name_initial" vertex="1">
           <mxGeometry height="70" width="230" x="650" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="d7" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_ADDRESS&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK address_id&lt;br&gt;owner_type (PERSON|ENTITY|EMPLOYER)&lt;br&gt;owner_id BIGINT (FK polymorphe)&lt;br&gt;type_code 1=Structured|2=Unstruct&lt;br&gt;unit/building/street/city/district&lt;br&gt;province_state_code/name&lt;br&gt;sub_province_sub_locality&lt;br&gt;postal_zip_code, country_code&lt;br&gt;unstructured VARCHAR(500)" vertex="1">
+        <mxCell id="d7" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_ADDRESS&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK address_id&lt;br&gt;owner_type (PERSON|ENTITY|EMPLOYER)&lt;br&gt;owner_id BIGINT (FK polymorphe)&lt;br&gt;type_code 1=Structured|2=Unstruct&lt;br&gt;unit/building/street/city/district&lt;br&gt;province_state_code/name&lt;br&gt;sub_province_sub_locality&lt;br&gt;postal_zip_code, country_code&lt;br&gt;unstructured VARCHAR(500)" vertex="1">
           <mxGeometry height="200" width="280" x="680" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="d8" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_IDENTIFICATION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK identification_id&lt;br&gt;owner_type (PERSON|ENTITY)&lt;br&gt;owner_id BIGINT&lt;br&gt;identifier_type_code INT&lt;br&gt;number VARCHAR(100)&lt;br&gt;jurisdiction_country/province" vertex="1">
+        <mxCell id="d8" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_IDENTIFICATION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK identification_id&lt;br&gt;owner_type (PERSON|ENTITY)&lt;br&gt;owner_id BIGINT&lt;br&gt;identifier_type_code INT&lt;br&gt;number VARCHAR(100)&lt;br&gt;jurisdiction_country/province" vertex="1">
           <mxGeometry height="130" width="280" x="410" y="180" as="geometry" />
         </mxCell>
         <mxCell id="de1" edge="1" parent="1" source="d1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="d2" value="tc 1,3,5">
@@ -314,49 +314,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bg1" parent="1" style="rounded=1;fillColor=#f8cecc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="BENEFICIAL OWNERSHIP - entityAndBeneficialOwnershipDetails (typeCode 6)" vertex="1">
+        <mxCell id="bg1" parent="1" style="html=1;rounded=1;fillColor=#f8cecc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="BENEFICIAL OWNERSHIP - entityAndBeneficialOwnershipDetails (typeCode 6)" vertex="1">
           <mxGeometry height="450" width="1200" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="b1" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_ENTITY (tc6)&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;entity_id PK&lt;br&gt;name_of_entity&lt;br&gt;structure_type_code 1-4" vertex="1">
+        <mxCell id="b1" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;STR_ENTITY (tc6)&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;entity_id PK&lt;br&gt;name_of_entity&lt;br&gt;structure_type_code 1-4" vertex="1">
           <mxGeometry height="70" width="220" x="450" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="b2" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_DIRECTOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;directorsOfCorporation&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
+        <mxCell id="b2" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_DIRECTOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;directorsOfCorporation&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
           <mxGeometry height="80" width="230" x="30" y="160" as="geometry" />
         </mxCell>
         <mxCell id="beb2" edge="1" parent="1" source="b1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="b2" value="1:N req[]">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b3" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_SHARE_OWNER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;personsOwningSharesOfCorp&lt;br&gt;nom seulement&lt;br&gt;surname givenName otherNameInitial" vertex="1">
+        <mxCell id="b3" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_SHARE_OWNER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;personsOwningSharesOfCorp&lt;br&gt;nom seulement&lt;br&gt;surname givenName otherNameInitial" vertex="1">
           <mxGeometry height="70" width="240" x="920" y="300" as="geometry" />
         </mxCell>
         <mxCell id="beb3" edge="1" parent="1" source="b1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="b3" value="1:N req[]">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b4" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUSTEE&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;trusteesOfTrust&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
+        <mxCell id="b4" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUSTEE&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;trusteesOfTrust&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
           <mxGeometry height="80" width="220" x="960" y="155" as="geometry" />
         </mxCell>
         <mxCell id="beb4" edge="1" parent="1" source="b1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="b4" value="1:N req[]">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b5" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_SETTLOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;settlorsOfTrust&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
+        <mxCell id="b5" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_SETTLOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;settlorsOfTrust&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
           <mxGeometry height="80" width="220" x="930" y="50" as="geometry" />
         </mxCell>
         <mxCell id="beb5" edge="1" parent="1" source="b1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="b5" value="1:N req[]">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUST_UNIT_OWNER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;personsOwningUnitsOfTrust&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
+        <mxCell id="b6" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUST_UNIT_OWNER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;personsOwningUnitsOfTrust&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
           <mxGeometry height="80" width="240" x="30" y="300" as="geometry" />
         </mxCell>
         <mxCell id="beb6" edge="1" parent="1" source="b1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="b6" value="1:N req[]">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b7" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUST_BENEFICIARY&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;beneficiariesOfTrust&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
+        <mxCell id="b7" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_TRUST_BENEFICIARY&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;beneficiariesOfTrust&lt;br&gt;personContact&lt;br&gt;nom+adresse+tel" vertex="1">
           <mxGeometry height="80" width="230" x="300" y="300" as="geometry" />
         </mxCell>
         <mxCell id="beb7" edge="1" parent="1" source="b1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="b7" value="1:N req[]">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b8" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_OTHER_ENTITY_OWNER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;personsOwning...NotCorpOrTrust&lt;br&gt;nom seulement&lt;br&gt;surname givenName otherNameInitial" vertex="1">
+        <mxCell id="b8" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;STR_OTHER_ENTITY_OWNER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;FK entity_id&lt;br&gt;personsOwning...NotCorpOrTrust&lt;br&gt;nom seulement&lt;br&gt;surname givenName otherNameInitial" vertex="1">
           <mxGeometry height="70" width="260" x="570" y="300" as="geometry" />
         </mxCell>
         <mxCell id="beb8" edge="1" parent="1" source="b1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="b8" value="1:N req[]">
@@ -370,40 +370,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tg1" parent="1" style="rounded=1;fillColor=#ffe6cc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="TRANSACTIONS" vertex="1">
+        <mxCell id="tg1" parent="1" style="html=1;rounded=1;fillColor=#ffe6cc;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" value="TRANSACTIONS" vertex="1">
           <mxGeometry height="950" width="1400" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="t1" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_TRANSACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK transaction_id&#xa;&lt;br&gt;FK str_report_id&#xa;&lt;br&gt;re_location_id VARCHAR(30)&lt;br&gt;attempted_indicator BOOLEAN&#xa;&lt;br&gt;date/time_of_transaction&#xa;&lt;br&gt;method_code INT (1-12)&#xa;&lt;br&gt;re_txn_reference VARCHAR(200)&#xa;&lt;br&gt;purpose VARCHAR(200)" vertex="1">
+        <mxCell id="t1" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_TRANSACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK transaction_id&#xa;&lt;br&gt;FK str_report_id&#xa;&lt;br&gt;re_location_id VARCHAR(30)&lt;br&gt;attempted_indicator BOOLEAN&#xa;&lt;br&gt;date/time_of_transaction&#xa;&lt;br&gt;method_code INT (1-12)&#xa;&lt;br&gt;re_txn_reference VARCHAR(200)&#xa;&lt;br&gt;purpose VARCHAR(200)" vertex="1">
           <mxGeometry height="180" width="260" x="500" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="t2" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_STARTING_ACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK starting_action_id&#xa;&lt;br&gt;FK transaction_id&#xa;&lt;br&gt;direction (1=In|2=Out)&#xa;&lt;br&gt;fund_type_code INT&#xa;&lt;br&gt;amount VARCHAR(28) =STRING!&lt;br&gt;currency_code VARCHAR(3)&#xa;&lt;br&gt;exchange_rate VARCHAR(28) =STRING!&lt;br&gt;account_status_code (1-4)&#xa;&lt;br&gt;conductor_indicator BOOL" vertex="1">
+        <mxCell id="t2" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_STARTING_ACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK starting_action_id&#xa;&lt;br&gt;FK transaction_id&#xa;&lt;br&gt;direction (1=In|2=Out)&#xa;&lt;br&gt;fund_type_code INT&#xa;&lt;br&gt;amount VARCHAR(28) =STRING!&lt;br&gt;currency_code VARCHAR(3)&#xa;&lt;br&gt;exchange_rate VARCHAR(28) =STRING!&lt;br&gt;account_status_code (1-4)&#xa;&lt;br&gt;conductor_indicator BOOL" vertex="1">
           <mxGeometry height="200" width="260" x="30" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="t3" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_COMPLETING_ACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK completing_action_id&#xa;&lt;br&gt;FK transaction_id&#xa;&lt;br&gt;disposition_code (28 vals)&#xa;&lt;br&gt;amount VARCHAR(28) =STRING!&#xa;&lt;br&gt;value_in_cad VARCHAR(28) =STRING!&lt;br&gt;account_status_code (1-4)&#xa;&lt;br&gt;beneficiary_indicator BOOL" vertex="1">
+        <mxCell id="t3" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#ffe6cc;strokeColor=#d6b656;" value="&lt;b&gt;STR_COMPLETING_ACTION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK completing_action_id&#xa;&lt;br&gt;FK transaction_id&#xa;&lt;br&gt;disposition_code (28 vals)&#xa;&lt;br&gt;amount VARCHAR(28) =STRING!&#xa;&lt;br&gt;value_in_cad VARCHAR(28) =STRING!&lt;br&gt;account_status_code (1-4)&#xa;&lt;br&gt;beneficiary_indicator BOOL" vertex="1">
           <mxGeometry height="170" width="260" x="900" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="t4" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_CONDUCTOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK conductor_id&#xa;&lt;br&gt;FK starting_action_id&#xa;&lt;br&gt;type_code (5|6), ref_id&#xa;&lt;br&gt;client_number, email&#xa;&lt;br&gt;device_type_code, ip_address&#xa;&lt;br&gt;on_behalf_of_indicator" vertex="1">
+        <mxCell id="t4" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_CONDUCTOR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK conductor_id&#xa;&lt;br&gt;FK starting_action_id&#xa;&lt;br&gt;type_code (5|6), ref_id&#xa;&lt;br&gt;client_number, email&#xa;&lt;br&gt;device_type_code, ip_address&#xa;&lt;br&gt;on_behalf_of_indicator" vertex="1">
           <mxGeometry height="140" width="230" x="30" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="t5" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_ON_BEHALF_OF&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK obo_id&#xa;&lt;br&gt;FK conductor_id&#xa;&lt;br&gt;type_code (5|6),ref_id&#xa;&lt;br&gt;relationship_code (1-14)" vertex="1">
+        <mxCell id="t5" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_ON_BEHALF_OF&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK obo_id&#xa;&lt;br&gt;FK conductor_id&#xa;&lt;br&gt;type_code (5|6),ref_id&#xa;&lt;br&gt;relationship_code (1-14)" vertex="1">
           <mxGeometry height="90" width="260" x="30" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="t6" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_SOURCE_OF_FUNDS&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK source_id&lt;br&gt;FK starting_action_id&lt;br&gt;type_code (1|2), ref_id&lt;br&gt;account/policy/identifying_number" vertex="1">
+        <mxCell id="t6" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_SOURCE_OF_FUNDS&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK source_id&lt;br&gt;FK starting_action_id&lt;br&gt;type_code (1|2), ref_id&lt;br&gt;account/policy/identifying_number" vertex="1">
           <mxGeometry height="90" width="220" x="420" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="t7" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_INVOLVEMENT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK involvement_id&lt;br&gt;FK completing_action_id&lt;br&gt;type_code (1|2), ref_id&lt;br&gt;account/policy/identifying_number" vertex="1">
+        <mxCell id="t7" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_INVOLVEMENT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK involvement_id&lt;br&gt;FK completing_action_id&lt;br&gt;type_code (1|2), ref_id&lt;br&gt;account/policy/identifying_number" vertex="1">
           <mxGeometry height="90" width="220" x="900" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="t8" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_BENEFICIARY&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK beneficiary_id&lt;br&gt;FK completing_action_id&lt;br&gt;type_code (3|4), ref_id&lt;br&gt;client_number, username, email" vertex="1">
+        <mxCell id="t8" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;STR_BENEFICIARY&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK beneficiary_id&lt;br&gt;FK completing_action_id&lt;br&gt;type_code (3|4), ref_id&lt;br&gt;client_number, username, email" vertex="1">
           <mxGeometry height="90" width="220" x="1150" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="t9" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_ACCOUNT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK account_id&#xa;&lt;br&gt;action_type, action_id&#xa;&lt;br&gt;fi/branch/number&#xa;&lt;br&gt;type_code (1-5), currency&#xa;&lt;br&gt;date_opened, date_closed" vertex="1">
+        <mxCell id="t9" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_ACCOUNT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK account_id&#xa;&lt;br&gt;action_type, action_id&#xa;&lt;br&gt;fi/branch/number&#xa;&lt;br&gt;type_code (1-5), currency&#xa;&lt;br&gt;date_opened, date_closed" vertex="1">
           <mxGeometry height="120" width="230" x="570" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="t10" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_ACCOUNT_HOLDER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK holder_id, FK account_id&#xa;&lt;br&gt;type_code (1|2), ref_id" vertex="1">
+        <mxCell id="t10" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_ACCOUNT_HOLDER&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&#xa;&lt;br&gt;PK holder_id, FK account_id&#xa;&lt;br&gt;type_code (1|2), ref_id" vertex="1">
           <mxGeometry height="90" width="200" x="660" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="t11" parent="1" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_VC_DATA&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK vc_data_id&lt;br&gt;action_type, action_id&lt;br&gt;data_type (TXN_ID|SEND|RECV)&lt;br&gt;value VARCHAR(200)" vertex="1">
+        <mxCell id="t11" parent="1" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#d5f5e3;strokeColor=#27ae60;" value="&lt;b&gt;STR_VC_DATA&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK vc_data_id&lt;br&gt;action_type, action_id&lt;br&gt;data_type (TXN_ID|SEND|RECV)&lt;br&gt;value VARCHAR(200)" vertex="1">
           <mxGeometry height="90" width="200" x="570" y="790" as="geometry" />
         </mxCell>
         <mxCell id="te1" edge="1" parent="1" source="t1" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" target="t2" value="1:N min1">
@@ -450,22 +450,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ag1" value="AUDIT ET TRACABILITE" style="rounded=1;fillColor=#f5f5f5;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" vertex="1" parent="1">
+        <mxCell id="ag1" value="AUDIT ET TRACABILITE" style="html=1;rounded=1;fillColor=#f5f5f5;opacity=15;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=5;dashed=1;dashPattern=5 5;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="650" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="u1" value="&lt;b&gt;STR_REPORT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;str_report_id PK" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="u1" value="&lt;b&gt;STR_REPORT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;str_report_id PK" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="50" width="150" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="u2" value="&lt;b&gt;STR_API_SUBMISSION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK submission_id&lt;br&gt;FK str_report_id&lt;br&gt;submitted_at, http_status_code&lt;br&gt;canafe_acknowledgement_id&lt;br&gt;success_indicator BOOLEAN" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="u2" value="&lt;b&gt;STR_API_SUBMISSION&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK submission_id&lt;br&gt;FK str_report_id&lt;br&gt;submitted_at, http_status_code&lt;br&gt;canafe_acknowledgement_id&lt;br&gt;success_indicator BOOLEAN" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="250" y="40" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="u3" value="&lt;b&gt;STR_SUBMITTED_PAYLOAD&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK payload_id&lt;br&gt;FK submission_id&lt;br&gt;payload_json TEXT&lt;br&gt;payload_hash_sha256 VARCHAR(64)" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="u3" value="&lt;b&gt;STR_SUBMITTED_PAYLOAD&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK payload_id&lt;br&gt;FK submission_id&lt;br&gt;payload_json TEXT&lt;br&gt;payload_hash_sha256 VARCHAR(64)" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="u4" value="&lt;b&gt;STR_VALIDATION_ERROR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK error_id&lt;br&gt;FK str_report_id&lt;br&gt;instance_path, keyword&lt;br&gt;message_en/fr TEXT" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="u4" value="&lt;b&gt;STR_VALIDATION_ERROR&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK error_id&lt;br&gt;FK str_report_id&lt;br&gt;instance_path, keyword&lt;br&gt;message_en/fr TEXT" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="u5" value="&lt;b&gt;STR_AUDIT_EVENT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK event_id&lt;br&gt;FK str_report_id&lt;br&gt;event_type, event_user&lt;br&gt;event_timestamp, event_details" style="rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="u5" value="&lt;b&gt;STR_AUDIT_EVENT&lt;/b&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;PK event_id&lt;br&gt;FK str_report_id&lt;br&gt;event_type, event_user&lt;br&gt;event_timestamp, event_details" style="html=1;rounded=1;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=top;fontSize=10;spacingLeft=4;spacingTop=2;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="30" y="270" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ue1" value="1:N" style="rounded=1;orthogonalLoop=1;fontSize=9;labelBackgroundColor=#FFFFFF;" edge="1" source="u1" target="u2" parent="1">
